@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "server.js"
+  ],
+  "ignore": [
+    "client/**",
+    "node_modules/**",
+    "dist/**"
+  ],
+  "ext": "js,json",
+  "signal": "SIGTERM"
+}
+
